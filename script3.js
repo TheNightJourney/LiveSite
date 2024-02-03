@@ -10,5 +10,5 @@ function redirectToYouTube() {
 
 function redirectToAnotherYouTube() {
     // Redirect to the second YouTube link in a new tab when the second button is clicked
-    window.open('https://www.youtube.com/anotherpage.html', '_blank');
+    window.open('https://www.youtube.com/watch?v=ZLR6d4hbjzU', '_blank');
 }
